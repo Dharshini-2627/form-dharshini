@@ -54,8 +54,8 @@ else{
         functionenter{
             <input>=name</input>
         }
-      <input type =text> placeholder='enter the name'</input>
-      <input type= text>placeholder='enter your email'</input>
+      <input type ='textbox'> placeholder='enter the name'</input>
+      <input type= 'textbox'>placeholder='enter your email'</input>
 
     </form>
   </div>
